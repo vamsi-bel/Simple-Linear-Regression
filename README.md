@@ -1,2 +1,2 @@
 # Simple-Linear-Regression
-Created a simple linear regression notebook for my practice
+This notebook is a prediction of salary from the year of experience simple linear regression.
